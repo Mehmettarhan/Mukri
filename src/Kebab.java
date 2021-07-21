@@ -8,5 +8,6 @@ public class Kebab {
             System.out.println(i);
 
         }
+        System.out.println("golloke");
     }
 }
